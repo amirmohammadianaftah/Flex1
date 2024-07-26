@@ -2,9 +2,9 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![image](https://github.com/user-attachments/assets/42482050-9a12-4575-ba43-9eb21b73b9b9)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![2](https://github.com/user-attachments/assets/cd718c46-3f9c-4002-8904-7ec39becaea7)
 
 - [Demo Project](https://amirmohammadianaftah.github.io/Flex1/)
 
