@@ -12,10 +12,8 @@
 
 - Created - 2024-7-26
 
-- Technologies Used - Html , css 
-
-- Hooks Used : useState 
+- 💻 Technologies Used - Html , css 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/amirmohammadian.web) and [linkedin](https://www.linkedin.com/in/amir-mohammadian-aa571b31b/)
+- How to reach me 📞 : with my [instagram](https://www.instagram.com/amirmohammadian.web) and [linkedin](https://www.linkedin.com/in/amir-mohammadian-aa571b31b/)
