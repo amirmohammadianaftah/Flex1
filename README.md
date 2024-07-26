@@ -8,9 +8,9 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by amir mohammadian
 
-- Created - 2022-11-26
+- Created - 2024-7-26
 
 - Technologies Used - Html , css , js , React.js
 
@@ -18,4 +18,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/amirmohammadian.web) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
