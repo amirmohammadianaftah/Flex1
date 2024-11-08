@@ -1,7 +1,5 @@
 # Flex1
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
-
 ![image](https://github.com/user-attachments/assets/42482050-9a12-4575-ba43-9eb21b73b9b9)
 
 ![5](https://github.com/user-attachments/assets/0f525e21-a733-47d4-9725-5cde231ea538)
